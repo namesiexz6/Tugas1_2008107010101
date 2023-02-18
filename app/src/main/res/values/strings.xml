@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas1 Mr.Hadafee Mudo</string>
+    <string name="sNama">Nama: %1$s</string>
+    <string name="sNPM">NPM: %1$s</string>
+    <string name="sJurusan">Jurusan: %1$s</string>
+
+</resources>
